@@ -55,5 +55,5 @@ Essentially, you think like a computer and attempt to process something in a alg
 
 I learned that sometimes it's better to take a second to back away and think about our work, constantly looking at our work would tire us out and create issues. At times, we needed to step away and think: "How do we fix this?". Simple stuff, really. 
 
-![DaBattleSnake Gif](https://exporter.battlesnake.com/games/4cc73755-6391-4029-ae67-719eac3098d3/gif.gif)
+![DaBattleSnake Gif](https://exporter.battlesnake.com/games/4cc73755-6391-4029-ae67-719eac3098d3/gif)
 This is a GIF of our battlesnake at work! 
